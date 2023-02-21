@@ -31,4 +31,4 @@ int  PositiveDigit (int[] array){
 int [] arr = WriteArray (size);
 PrintArray (arr);
 int Positive = PositiveDigit (arr);
-Console.WriteLine(Positive);
+Console.WriteLine(Positive); 
